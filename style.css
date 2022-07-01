@@ -1,0 +1,150 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+
+
+body {
+ background-color: white; 
+}
+
+/*style charity page*/
+#charity{
+  color:black;
+  font-family: 'Economica', sans-serif;
+  font-size: 30px;
+  margin:20;
+  padding:20; 
+}
+#charity1{
+text-align: center;
+  font-family: 'Economica', sans-serif;
+  font-size: 20px;
+}
+#c1{
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+  font-size: 16px;
+}
+
+#charity2{
+text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 20px;
+}
+#c2{
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 16px;
+}
+
+#charity3{
+text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 20px;
+}
+#c3{
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 16px;
+}
+
+#charity4{
+text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 20px;
+}
+#c4{
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 16px;
+}
+
+#charity5{
+text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 20px;
+}
+#c5{
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 16px;
+}
+
+#charity6{
+text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 20px;
+}
+#c6{
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 16px;
+}
+
+#charity7{
+text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 20px;
+}
+#c7{
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 16px;
+}
+
+#charity8{
+text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 20px;
+}
+#c8{
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 16px;
+}
+
+#charity9{
+text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 20px;
+}
+#c9{
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+   font-size: 16px;
+}
+/* STYLE TEXT */
+h1 {
+  color: white;
+  font-family: 'Montserrat', sans-serif; 
+  font-size:60px
+  
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+  font-size: 20px
+
+}
+
+p{
+  margin: 1%;
+  padding: 1%; 
+}
+
+#text{
+  font-family: 'Economica', sans-serif;
+  font-size: 18px;
+}
+
+/* STYLE IMAGES */
+img {
+  margin: 3;
+  padding: 3;
+  filter:contrast(50%)
+}
+
