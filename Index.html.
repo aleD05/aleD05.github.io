@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>BeeAware</title>
+ <link href="style.css" rel="stylesheet" type="text/css" />
+ </head>
+
+ <nav><ul>
+    <li><a href="About.html"> <strong>About</strong> </a></li>
+   
+   <li><a href="TakeAction.html"> <strong>Take Action</strong> </a></li>
+        
+   <li><a href="index.html"> <strong>Home</strong> </a></li>
+   
+      </ul></nav> 
+
+<div class="container">
+  <img src= "assets/beessmall.jpg" alt= "Five honey bees on a pale yellow honey comb."style="width:100%;">
+  <div class="bottom-left">Bottom Left</div>
+  <div class="top-left">Top Left</div>
+  <div class="top-right">Top Right</div>
+  <div class="bottom-right">Bottom Right</div>
+  <div class="centered"><header><h1>Bee Aware</h1></header></div>
+</div>
+
+  
+ 
+
+
+  
+  <main>
+
+        <iframe width="510" height="305" src="https://www.youtube.com/embed/CafQg0ZFKro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     
+        <h4><strong>Save The Bees!</strong></h4>
+    <p id="text"> Bees are dying off at an alarmingly fast rate, and a big reason as to why they’re dying is because human activity. That’s why Save The Bees was formed, for humans to help undo the damage done. </p>
+    
+    <h3><strong> Why?</strong> </h3>
+    <p id="text"> Although there are other pollinators, bees are the main pollinators; contributing to the pollination of at least 80% of all flowering plants. </p>
+
+    <h3><strong> How?</strong> </h3>
+    <p id="text"> Don't worry!All is not lost, yes the damage is already done but it's <strong>never</strong> too late to start helping out. Everything you do counts, no matter how <strong>small</strong> you may think your influence may be, it still counts!</p>
+    
+    <h3>Interesting Facts!</h3>
+
+    <div id="factGenerator">
+      <button id="factButton">Click Me!</button>
+      <p id="fact">..🐝..</p>
+    </div>
+    
+  </main>
+  <br>
+    <h3>Oops! This website isn't currently finished, sorry for the mess!☹</h3>
+ 
+<body>
+ 
+  
+  
+  
+  <script src="script.js"></script>
+ <!--
+This script places a badge on your repl's full-browser view back to your repl's cover page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green, teal, blue, blurple, magenta, pink!
+-->
+<script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
